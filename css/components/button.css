@@ -1,0 +1,9 @@
+.btn-apply {
+  background: #1edd87;
+  color: white;
+  margin: 0px;
+  padding: 16px 36px;
+  border-radius: 50px;
+  font-weight: bold;
+  display: inline-block;
+}
